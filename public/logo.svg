@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="100%" height="auto" preserveAspectRatio="xMidYMid meet">
+  <style>
+    .title { font-family: 'Arial', sans-serif; font-size: 48px; font-weight: bold; fill: #333; }
+  </style>
+    <!-- Site title -->
+  <text x="180" y="65" class="title">SUAS QRF</text>
+</svg>
